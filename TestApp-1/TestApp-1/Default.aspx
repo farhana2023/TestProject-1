@@ -11,6 +11,15 @@
         <p class="lead">Hello&nbsp; World - changed by developer-6&nbsp;</p>
         <asp:Label ID="Label2" runat="server" Text="Second test"></asp:Label>
         <asp:TextBox ID="txtbox2" runat="server"></asp:TextBox>
+            
+    </div>
+    
+     </div>
+        <div class="jumbotron">
+        <p class="lead">Hello&nbsp; World - changed by developer-7&nbsp;</p>
+        <asp:Label ID="Label2" runat="server" Text="3rd test"></asp:Label>
+        <asp:TextBox ID="txtbox3" runat="server"></asp:TextBox>
+            
     </div>
     <div class="row">
         <div class="col-md-4">
