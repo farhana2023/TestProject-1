@@ -17,7 +17,7 @@
      </div>
         <div class="jumbotron">
         <p class="lead">Hello&nbsp; World - changed by developer-7&nbsp;</p>
-        <asp:Label ID="Label2" runat="server" Text="3rd test"></asp:Label>
+        <asp:Label ID="label3" runat="server" Text="3rd test"></asp:Label>
         <asp:TextBox ID="txtbox3" runat="server"></asp:TextBox>
             
     </div>
