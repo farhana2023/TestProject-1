@@ -4,6 +4,8 @@
 
     <div class="jumbotron">
         <p class="lead">Hello&nbsp; World &nbsp;</p>
+        <asp:Label ID="Label1" runat="server" Text="First test"></asp:Label>
+        <asp:TextBox ID="txttest" runat="server"></asp:TextBox>
     </div>
 
     <div class="row">
