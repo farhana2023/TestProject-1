@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <p class="lead">Hello&nbsp; World - changed by developer-2 &nbsp;</p>
+        <p class="lead">Hello&nbsp; World - changed by developer-3 &nbsp;</p>
         <asp:Label ID="Label1" runat="server" Text="First test"></asp:Label>
         <asp:TextBox ID="txttest" runat="server"></asp:TextBox>
     </div>
